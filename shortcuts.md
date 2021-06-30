@@ -2,6 +2,7 @@
 
 
 * **CRTL + B** *combinação inicial*
-* **CRTL + B + C** *C -> create, criar*
-* **CRTL + B + P** *P -> previous, janela anterior*
-* **CRTL + B + N** *N -> next, próxima janela*
+* **+C** *C -> create, criar*
+* **+P** *P -> previous, janela anterior*
+* **+N** *N -> next, próxima janela*
+* **+L** *L-> last, última janela*
