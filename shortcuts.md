@@ -10,8 +10,10 @@
 * **+,** *virgula-> renomear janela*
 * **+W** *W-> lista todas as janelas*
 * **+D** *D-> detach, sair do terminal*
-* **+%** *porcentagem-> dividi tela em janelas*
+* **+%** *porcentagem-> dividi tela na vertical*
 * **+ <- or ->** *direcionais -> mover-se entre janelas*
+* **+"** *aspas duplas -> dividi tela na horizontal*
+* **+press <- or ->** *press direcional-> redefinir tamanho dos paineis*
 
 ### Commands
 
