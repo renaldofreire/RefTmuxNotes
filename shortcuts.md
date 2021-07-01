@@ -2,18 +2,18 @@
 
 
 * **CRTL + B** *combinação inicial*
-* **+C** *C -> create, criar*
-* **+P** *P -> previous, janela anterior*
-* **+N** *N -> next, próxima janela*
-* **+L** *L-> last, última janela*
-* **+num** *número-> número específico de uma janela*
-* **+,** *virgula-> renomear janela*
-* **+W** *W-> lista todas as janelas*
-* **+D** *D-> detach, sair do terminal*
-* **+%** *porcentagem-> dividi tela na vertical*
-* **+ <- or ->** *direcionais -> mover-se entre janelas*
-* **+"** *aspas duplas -> dividi tela na horizontal*
-* **+press <- or ->** *press direcional-> redefinir tamanho dos paineis*
+* **+C** *create, criar*
+* **+P** *previous, janela anterior*
+* **+N** *next, próxima janela*
+* **+L** *last, última janela*
+* **+num** *número específico de uma janela*
+* **+,** *renomear janela*
+* **+W** *lista todas as janelas*
+* **+D** *detach, sair do terminal*
+* **+%** *dividi tela na vertical*
+* **+ <- or ->** *mover-se entre janelas*
+* **+"** *dividi tela na horizontal*
+* **+press <- or ->** *pressionar direcionais para redefinir tamanho dos paineis*
 
 ### Commands
 
